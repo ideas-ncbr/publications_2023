@@ -36,5 +36,7 @@
 | 34 | "Zero time waste in pre-trained early exit neural networks" | Bartosz Wójcik, Marcin Przewięźlikowski, Filip Szatkowski, Maciej Wołczyk, Klaudia Bałazy, Bartłomiej Krzepkowski | Neural Networks (P) | [Link](https://www.sciencedirect.com/science/article/pii/S0893608023005555) |  |
 | 35 | "Bucks for Buckets (B4B): Active Defenses Against Stealing Encoders" | Jan Dubiński, Stanisław Pawlak, Franziska Boenisch, Tomasz Trzciński, Adam Dziedzic | Thirty-seventh Conference on Neural Information Processing Systems [NeurIPS 2023] (C) | [Link](https://arxiv.org/abs/2310.08571) |  |
 | 36 | "Platelet-Based Liquid Biopsies through the Lens of Machine Learning" | Sebastian Cygert, Krzysztof Pastuszak, Franciszek Górski, Michał Sieczczyński, Piotr Juszczyk, Antoni Rutkowski | Cancers (P) | [Link](https://www.mdpi.com/2072-6694/15/8/2336) |  |
+| 37 | "Augmentation-aware Self-supervised Learning with Conditioned Projector" | Marcin Przewięźlikowski, Mateusz Pyla, Bartosz Zieliński, Bartłomiej Twardowski, Jacek Tabor, Marek Śmieja | NeurIPS 2023 Workshop: Self-Supervised Learning - Theory and Practice (W) | [Link](https://arxiv.org/abs/2306.06082) | [Link](https://github.com/gmum/CASSLE)
+
 
 
