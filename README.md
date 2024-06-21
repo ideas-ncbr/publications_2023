@@ -39,5 +39,5 @@
 | 37 | "Augmentation-aware Self-supervised Learning with Conditioned Projector" | Marcin Przewięźlikowski, Mateusz Pyla, Bartosz Zieliński, Bartłomiej Twardowski, Jacek Tabor, Marek Śmieja | NeurIPS 2023 Workshop: Self-Supervised Learning - Theory and Practice (W) | [Link](https://arxiv.org/abs/2306.06082) | [Link](https://github.com/gmum/CASSLE)
 | 38 | "Adapt Your Teacher: Improving Knowledge Distillation for Exemplar-free Continual Learning" | Filip Szatkowski, Mateusz Pyla, Marcin Przewięźlikowski, Sebastian Cygert, Bartłomiej Twardowski, Tomasz Trzciński | ICCV 2023 Workshop: Visual Continual Learning (W) | [Link](https://arxiv.org/abs/2308.09544) | [Link](https://github.com/fszatkowski/cl-teacher-adaptation)
 | 39 | "Revisiting Supervision for Continual Representation Learning" | Daniel Marczak, Sebastian Cygert, Tomasz Trzciński, Bartłomiej Twardowski | NeurIPS 2023 Workshop: UniReps - Unifying Representations in Neural Models (W) | [Link](https://arxiv.org/abs/2311.13321) | [Link](https://github.com/danielm1405/sl-vs-ssl-cl)
-
+| 40 | "AR-TTA: A Simple Method for Real-World Continual Test-Time Adaptation" | Damian Sójka, Sebastian Cygert, Bartłomiej Twardowski, Tomasz Trzciński | ICCV 2023 Workshop: Visual Continual Learning (W) | [Link](https://arxiv.org/abs/2309.10109) |  |
 
